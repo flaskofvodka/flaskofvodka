@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/1742a6f5734a829bff8ebe6a91c4fe4db2569510/Tumblr_l_320564433784764.gif" width="600"/>
+  <img src="https://github.com/flaskofvodka/flaskofvodka/blob/9440fba91e8c942ffa57b617665969d20c231f81/Tumblr_l_320564433784764.gif" width="600"/>
 </div>
 
 
@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/0ec2a6059ae30d7f4b275b68bec74c6ebe54b828/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234502.png" width="597"/>
+  <img src="https://github.com/flaskofvodka/flaskofvodka/blob/9440fba91e8c942ffa57b617665969d20c231f81/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234502.png" width="597"/>
 </div>
 
 
@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/c9c587fd432673856ae43397b9deceb4fa52fdd7/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234444.png" width="620"/>
+  <img src="https://github.com/flaskofvodka/flaskofvodka/blob/9440fba91e8c942ffa57b617665969d20c231f81/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234444.png" width="620"/>
 </div>
 
 
