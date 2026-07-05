@@ -55,6 +55,11 @@ $\color{#626FFF}{\textsf{just bc we're friended in game, doesnt mean we are}}$ $
 $\color{#626FFF}{\textsf{I consider the term}}$ $\color{#FF8968}{\textsf{friend}}$ $\color{#626FFF}{\textsf{to imply closeness.}}$<br>
 
 <p align="center">
+$\color{#626FFF}{\textsf{i have different personalities for different ponies,}}$<br>
+$\color{#FF8968}{\textsf{im more likely to int first as Tord and extroverted}}$ <br>
+  $\color{#3040eb}{\textsf{meanwhile the complete opposite for Tom}}$<br>
+
+<p align="center">
 ⏝꒷︶ ͡𑁬𖤐໒ ͡ ︶꒷⏝
 
 <p align="center">
