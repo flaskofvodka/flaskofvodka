@@ -36,15 +36,6 @@
 
 
 <div align="center">
-  <img src="https://github.com/flaskofvodka/flaskofvodka/blob/fc70876a5a410a6804769e4a184276717f50312e/Tumblr_l_1447985202219290.gif" width="130"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/flaskofvodka/flaskofvodka/blob/2cac2a5e982afc36dc6ba9249bb7aea78153eec0/Tumblr_l_1447911464915774.gif" width="0"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/flaskofvodka/flaskofvodka/blob/fc70876a5a410a6804769e4a184276717f50312e/Ba%C5%9Fl%C4%B1ks%C4%B1z79_20260714210026.png" width="950"/>
+  <img src="https://64.media.tumblr.com/240ec320d0162e171142dc3773d37b93/af1d2bd09d335007-9b/s400x600/254456f22018d7970c579a83aad8f358d7f2f7a8.gifv" width="650"/>
 </div>
 
