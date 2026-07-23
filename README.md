@@ -6,7 +6,7 @@
 <p align="center">
   ${{\color{#b53849}\texttt{adult}}}$ ${{\color{#445bb9}\texttt{-18 iwec}}}$<br>
 ${{\color{#0054fd}\texttt{tom}}}$ ${{\color{#445bb9}\texttt{fictkin/kinshift}}}$<br>
-${{\color{#b53849}\texttt{BPD}}}$ ${{\color{#445bb9}\texttt{INTJ}}}$ ${{\color{#b53849}\texttt{depression}}}$
+${{\color{#b53849}\texttt{BPD}}}$ ${{\color{#445bb9}\texttt{ISTJ/INFP}}}$ ${{\color{#b53849}\texttt{depression}}}$
 
 <p align="center" dir="auto"> 
 
