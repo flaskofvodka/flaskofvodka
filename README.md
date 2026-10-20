@@ -23,22 +23,22 @@ ${{\color{#b53849}\texttt{BPD}}}$ ${{\color{#445bb9}\texttt{anxiety}}}$ ${{\colo
 
 <p align="center">
   ${{\color{#FFDBD1}\texttt{⠀⠀⠀⠀}}}$<br>
-${{\color{#445bb9}\texttt{almost always offtab}}}$ ${{\color{#b53849}\texttt{w2i preferred}}}$<br>
-${{\color{#b53849}\texttt{c+h freely !!}}}$ ${{\color{#445bb9}\texttt{I love having company}}}$<br>
+${{\color{#445bb9}\texttt{usually offtab}}}$ ${{\color{#b53849}\texttt{w2i preferred}}}$<br>
+${{\color{#b53849}\texttt{c+h encouraged !}}}$ ${{\color{#445bb9}\texttt{feel free}}}$<br>
 <p align="center">
-${{\color{#445bb9}\texttt{doubles iwec}}}$ ${{\color{#b53849}\texttt{Tord fictkins iwc}}}$<br>
+${{\color{#445bb9}\texttt{doubles dni}}}$ ${{\color{#b53849}\texttt{Tord fictkins iwc}}}$<br>
 
 <p align="center">  
 <h3 align="center"><img align="center" src="https://pixelsafari.neocities.org/favicon/horror/person.gif" height="150px" alt="lyrics"/><br>
 
   
 <p align="center">
-${{\color{#445bb9}\texttt{being friended in game doesnt mean}}}$<br>
-${{\color{#445bb9}\texttt{we are}}}$ ${{\color{#b53849}\texttt{'friends'}}}$ ${{\color{#445bb9}\texttt{I only use that}}}$<br>
+${{\color{#445bb9}\texttt{being friended in game doesnt make}}}$<br>
+${{\color{#445bb9}\texttt{us}}}$ ${{\color{#b53849}\texttt{'friends'}}}$ ${{\color{#445bb9}\texttt{I only use that}}}$<br>
 ${{\color{#445bb9}\texttt{term to imply closeness.}}}$<br>
 <p align="center">
 ${{\color{#445bb9}\texttt{Trust isnt given out for free}}}$<br>
-${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned.}}}$<br>
+${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned}}}$<br>
 
 
 </div>
