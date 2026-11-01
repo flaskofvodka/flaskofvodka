@@ -56,10 +56,10 @@ ${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned}}}$<br>
 <details>
   <summary> awards </summary>
   
-   <sub>@piddlesjet @casinotown @paw-town @pt-medals @pt-walk-of-fame<br>
-   @pt-hall-of-media @pt-contributers
-@pt-fashion @pt-nominations<br>
-@pt-heavyfictkin<br>
+   <sub>[@piddlesjet](https://github.com/piddlesjet) [@casinotown](https://github.com/casinotown) [@paw-town](https://github.com/paw-town) [@pt-medals](https://github.com/pt-medals)<br>
+   [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-contributers](https://github.com/pt-contributers)
+[@pt-fashion](https://github.com/pt-fashion) <br>
+[@pt-heavyfictkin](https://github.com/pt-heavyfictkin) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-nominations](https://github.com/pt-nominations)<br>
 
 </details>
 </div>
