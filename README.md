@@ -57,9 +57,9 @@ ${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned}}}$<br>
   <summary> awards </summary>
   
    <sub>@piddlesjet @casinotown @paw-town @pt-medals @pt-walk-of-fame<br>
-   
-<sub>@pt-hall-of-media @pt-contributers
+   @pt-hall-of-media @pt-contributers
 @pt-fashion @pt-nominations<br>
+@pt-heavyfictkin<br>
 
 </details>
 </div>
