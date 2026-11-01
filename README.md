@@ -27,7 +27,6 @@ ${{\color{#445bb9}\texttt{usually offtab}}}$ ${{\color{#b53849}\texttt{w2i prefe
 ${{\color{#b53849}\texttt{c+h encouraged !}}}$ ${{\color{#445bb9}\texttt{feel free}}}$<br>
 <p align="center">
 ${{\color{#445bb9}\texttt{doubles dni}}}$ ${{\color{#b53849}\texttt{Tord fictkins iwc}}}$<br>
-
 <p align="center">  
 <h3 align="center"><img align="center" src="https://pixelsafari.neocities.org/favicon/horror/person.gif" height="150px" alt="lyrics"/><br>
 
