@@ -34,7 +34,7 @@ ${{\color{#445bb9}\texttt{doubles dni}}}$ ${{\color{#b53849}\texttt{Tord fictkin
 <p align="center">
 ${{\color{#445bb9}\texttt{being friended in game doesnt make}}}$<br>
 ${{\color{#445bb9}\texttt{us}}}$ ${{\color{#b53849}\texttt{'friends'}}}$ ${{\color{#445bb9}\texttt{I only use that}}}$<br>
-${{\color{#445bb9}\texttt{term to imply closeness.}}}$<br>
+${{\color{#445bb9}\texttt{term to imply closeness}}}$<br>
 <p align="center">
 ${{\color{#445bb9}\texttt{Trust isnt given out for free}}}$<br>
 ${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned}}}$<br>
@@ -48,7 +48,7 @@ ${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned}}}$<br>
 <!-- divider burps -->
 <p align="center">  
 <div align="center">
-  <img src="https://64.media.tumblr.com/240ec320d0162e171142dc3773d37b93/af1d2bd09d335007-9b/s400x600/254456f22018d7970c579a83aad8f358d7f2f7a8.gifv" width="235"/>
+  <img src="https://64.media.tumblr.com/240ec320d0162e171142dc3773d37b93/af1d2bd09d335007-9b/s400x600/254456f22018d7970c579a83aad8f358d7f2f7a8.gifv" width="228"/>
 </div>
 
 <div align="center">
