@@ -59,6 +59,7 @@ ${{\color{#445bb9}\texttt{its}}}$ ${{\color{#b53849}\texttt{earned}}}$<br>
    [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-contributers](https://github.com/pt-contributers)
 [@pt-fashion](https://github.com/pt-fashion) <br>
 [@pt-heavyfictkin](https://github.com/pt-heavyfictkin) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-nominations](https://github.com/pt-nominations)<br>
+[@pt-everypony](https://github.com/pt-everypony)
 
 </details>
 </div>
